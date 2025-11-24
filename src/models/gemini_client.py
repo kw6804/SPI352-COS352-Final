@@ -20,7 +20,7 @@ def ask_gemini(messages, model="gemini-2.5-flash"):
     answer = response.text.strip().lower()
 
     # Error handling in case model does not comply
-    if answer not in {"agree", "disagee", "neutral"}:
+    if answer not in {"agree", "disagree", "neutral"}:
         return f"Model didn't respond in the desired way. It returned {answer[:10]}"
 
     return answer

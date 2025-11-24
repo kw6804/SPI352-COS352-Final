@@ -33,8 +33,8 @@ SYSTEM_PROMPT = (
 )
 
 MODELS = {
-    #"chatgpt": {"model": "gpt-5-mini"},
-    #"claude": {"model": "claude-3-haiku-20240307"},
+    "chatgpt": {"model": "gpt-5-mini"},
+    "claude": {"model": "claude-3-haiku-20240307"},
     "gemini": {"model": "gemini-2.5-flash"},
 }
 

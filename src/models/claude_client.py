@@ -26,7 +26,7 @@ def ask_claude(messages, model="claude-3-haiku-20240307"):
     answer = response.content[0].text.strip().lower()
 
     # Error handling in case model does not comply
-    if answer not in {"agree", "disagee", "neutral"}:
+    if answer not in {"agree", "disagree", "neutral"}:
         return f"Model didn't respond in the desired way. It returned {answer[:10]}"
 
     return answer

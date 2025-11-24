@@ -1,0 +1,2 @@
+timestamp,model,model_id,part,pass_idx,question_id,statement,response
+2025-11-24T20:32:47.705966,gemini,gemini-2.5-flash,part2_context,1,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
