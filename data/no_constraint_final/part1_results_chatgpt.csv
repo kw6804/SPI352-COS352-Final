@@ -1,0 +1,301 @@
+timestamp,model,part,run_idx,question_id,statement,response
+2025-11-23T20:50:19.470189,chatgpt,part1,1,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:19.798031,chatgpt,part1,2,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:20.082597,chatgpt,part1,3,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:20.411837,chatgpt,part1,4,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:20.778242,chatgpt,part1,5,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:21.127059,chatgpt,part1,6,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:21.537535,chatgpt,part1,7,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:21.868512,chatgpt,part1,8,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:22.409263,chatgpt,part1,9,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:22.687793,chatgpt,part1,10,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Agree
+2025-11-23T20:50:22.933539,chatgpt,part1,1,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Neutral
+2025-11-23T20:50:23.278589,chatgpt,part1,2,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:23.547434,chatgpt,part1,3,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:23.934966,chatgpt,part1,4,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:24.319699,chatgpt,part1,5,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:24.712299,chatgpt,part1,6,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:25.191398,chatgpt,part1,7,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:25.633150,chatgpt,part1,8,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:26.141551,chatgpt,part1,9,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:26.669195,chatgpt,part1,10,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T20:50:27.189004,chatgpt,part1,1,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Neutral
+2025-11-23T20:50:27.713088,chatgpt,part1,2,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:27.941741,chatgpt,part1,3,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:28.213373,chatgpt,part1,4,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:28.439298,chatgpt,part1,5,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:28.706334,chatgpt,part1,6,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:28.971813,chatgpt,part1,7,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:29.220232,chatgpt,part1,8,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:29.452504,chatgpt,part1,9,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:29.759129,chatgpt,part1,10,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T20:50:30.031562,chatgpt,part1,1,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:30.393432,chatgpt,part1,2,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:30.989260,chatgpt,part1,3,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:31.367018,chatgpt,part1,4,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:32.085472,chatgpt,part1,5,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:32.386781,chatgpt,part1,6,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:32.892603,chatgpt,part1,7,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:33.517659,chatgpt,part1,8,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:33.815718,chatgpt,part1,9,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:34.108177,chatgpt,part1,10,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T20:50:34.370863,chatgpt,part1,1,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:34.723690,chatgpt,part1,2,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:36.102809,chatgpt,part1,3,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:36.758276,chatgpt,part1,4,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:37.305663,chatgpt,part1,5,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:37.857913,chatgpt,part1,6,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:38.403851,chatgpt,part1,7,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:38.892382,chatgpt,part1,8,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:39.707040,chatgpt,part1,9,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:41.096070,chatgpt,part1,10,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T20:50:41.379899,chatgpt,part1,1,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:41.675591,chatgpt,part1,2,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:41.969580,chatgpt,part1,3,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:42.327975,chatgpt,part1,4,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:42.660274,chatgpt,part1,5,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:43.042371,chatgpt,part1,6,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:43.454254,chatgpt,part1,7,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:43.760122,chatgpt,part1,8,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:44.168704,chatgpt,part1,9,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:44.494921,chatgpt,part1,10,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T20:50:44.777020,chatgpt,part1,1,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:45.146275,chatgpt,part1,2,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:45.501973,chatgpt,part1,3,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:45.787394,chatgpt,part1,4,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:46.195389,chatgpt,part1,5,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:46.526997,chatgpt,part1,6,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:46.795554,chatgpt,part1,7,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:47.109802,chatgpt,part1,8,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:47.444370,chatgpt,part1,9,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:47.760844,chatgpt,part1,10,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T20:50:48.095596,chatgpt,part1,1,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:48.359524,chatgpt,part1,2,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:48.727994,chatgpt,part1,3,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:49.143980,chatgpt,part1,4,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:49.542409,chatgpt,part1,5,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:49.898974,chatgpt,part1,6,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:50.285622,chatgpt,part1,7,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:51.336216,chatgpt,part1,8,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:52.290548,chatgpt,part1,9,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:52.550950,chatgpt,part1,10,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T20:50:52.818559,chatgpt,part1,1,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:53.101531,chatgpt,part1,2,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:53.520606,chatgpt,part1,3,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:53.964736,chatgpt,part1,4,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:54.427179,chatgpt,part1,5,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:54.912603,chatgpt,part1,6,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:55.435545,chatgpt,part1,7,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:55.960099,chatgpt,part1,8,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:56.484004,chatgpt,part1,9,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:57.011185,chatgpt,part1,10,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T20:50:57.378113,chatgpt,part1,1,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:50:57.651168,chatgpt,part1,2,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:50:58.195970,chatgpt,part1,3,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:50:58.590932,chatgpt,part1,4,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:50:59.397438,chatgpt,part1,5,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:50:59.677373,chatgpt,part1,6,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:51:00.143776,chatgpt,part1,7,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:51:00.447693,chatgpt,part1,8,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:51:00.725907,chatgpt,part1,9,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:51:01.062941,chatgpt,part1,10,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T20:51:01.370613,chatgpt,part1,1,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:01.653918,chatgpt,part1,2,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:01.927863,chatgpt,part1,3,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:02.188731,chatgpt,part1,4,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:02.496815,chatgpt,part1,5,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:02.757113,chatgpt,part1,6,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:03.300322,chatgpt,part1,7,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:03.555253,chatgpt,part1,8,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:03.841543,chatgpt,part1,9,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:04.349879,chatgpt,part1,10,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T20:51:04.597921,chatgpt,part1,1,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:04.873885,chatgpt,part1,2,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:05.333337,chatgpt,part1,3,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:06.384429,chatgpt,part1,4,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:07.186132,chatgpt,part1,5,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:07.980003,chatgpt,part1,6,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:08.475018,chatgpt,part1,7,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:09.520398,chatgpt,part1,8,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:09.868821,chatgpt,part1,9,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:10.240721,chatgpt,part1,10,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T20:51:10.566690,chatgpt,part1,1,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:10.828820,chatgpt,part1,2,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:11.287122,chatgpt,part1,3,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:11.670539,chatgpt,part1,4,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:12.137389,chatgpt,part1,5,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:13.037594,chatgpt,part1,6,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:13.383406,chatgpt,part1,7,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:13.750902,chatgpt,part1,8,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:14.577404,chatgpt,part1,9,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:14.945267,chatgpt,part1,10,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T20:51:15.283604,chatgpt,part1,1,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:15.586133,chatgpt,part1,2,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:15.849434,chatgpt,part1,3,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:16.124989,chatgpt,part1,4,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:16.383287,chatgpt,part1,5,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:16.673572,chatgpt,part1,6,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:16.951809,chatgpt,part1,7,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:17.267640,chatgpt,part1,8,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:17.549532,chatgpt,part1,9,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:17.901714,chatgpt,part1,10,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T20:51:18.252392,chatgpt,part1,1,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:18.583462,chatgpt,part1,2,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:18.809990,chatgpt,part1,3,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:19.022090,chatgpt,part1,4,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:19.482334,chatgpt,part1,5,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:19.766975,chatgpt,part1,6,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:19.994232,chatgpt,part1,7,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:20.403440,chatgpt,part1,8,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:20.708381,chatgpt,part1,9,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:21.120536,chatgpt,part1,10,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T20:51:21.426363,chatgpt,part1,1,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:21.701856,chatgpt,part1,2,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:21.998329,chatgpt,part1,3,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:22.318466,chatgpt,part1,4,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:22.616205,chatgpt,part1,5,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:23.249161,chatgpt,part1,6,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:23.561476,chatgpt,part1,7,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:23.834788,chatgpt,part1,8,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:24.192343,chatgpt,part1,9,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:24.521630,chatgpt,part1,10,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T20:51:24.822117,chatgpt,part1,1,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:25.111168,chatgpt,part1,2,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:25.325539,chatgpt,part1,3,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:25.621935,chatgpt,part1,4,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:25.859172,chatgpt,part1,5,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:26.286211,chatgpt,part1,6,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:26.543737,chatgpt,part1,7,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:26.814465,chatgpt,part1,8,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:27.364543,chatgpt,part1,9,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:27.585123,chatgpt,part1,10,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T20:51:27.902467,chatgpt,part1,1,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:28.282039,chatgpt,part1,2,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:28.598865,chatgpt,part1,3,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:28.902949,chatgpt,part1,4,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:29.170930,chatgpt,part1,5,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Neutral
+2025-11-23T20:51:29.511575,chatgpt,part1,6,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:29.790686,chatgpt,part1,7,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:30.082086,chatgpt,part1,8,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:30.362096,chatgpt,part1,9,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:30.667406,chatgpt,part1,10,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T20:51:31.002998,chatgpt,part1,1,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:31.417691,chatgpt,part1,2,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:31.864797,chatgpt,part1,3,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:32.116298,chatgpt,part1,4,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:32.480771,chatgpt,part1,5,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:32.889432,chatgpt,part1,6,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:33.165279,chatgpt,part1,7,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:33.503867,chatgpt,part1,8,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:33.908398,chatgpt,part1,9,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:34.186581,chatgpt,part1,10,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T20:51:34.450765,chatgpt,part1,1,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:34.818171,chatgpt,part1,2,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:35.076079,chatgpt,part1,3,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:35.419369,chatgpt,part1,4,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:35.723276,chatgpt,part1,5,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:36.047617,chatgpt,part1,6,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:36.315022,chatgpt,part1,7,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:36.563620,chatgpt,part1,8,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:36.860327,chatgpt,part1,9,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:37.293807,chatgpt,part1,10,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T20:51:37.579972,chatgpt,part1,1,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:37.863488,chatgpt,part1,2,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:38.129801,chatgpt,part1,3,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:38.417077,chatgpt,part1,4,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:38.766267,chatgpt,part1,5,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:39.026884,chatgpt,part1,6,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:39.294442,chatgpt,part1,7,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:39.747837,chatgpt,part1,8,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:40.056229,chatgpt,part1,9,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:40.361634,chatgpt,part1,10,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T20:51:40.646106,chatgpt,part1,1,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Neutral
+2025-11-23T20:51:41.078873,chatgpt,part1,2,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:41.333690,chatgpt,part1,3,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:41.795788,chatgpt,part1,4,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:42.307457,chatgpt,part1,5,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:42.670693,chatgpt,part1,6,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:42.998193,chatgpt,part1,7,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:43.332021,chatgpt,part1,8,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:43.720607,chatgpt,part1,9,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:44.152812,chatgpt,part1,10,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T20:51:44.442179,chatgpt,part1,1,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Neutral
+2025-11-23T20:51:44.729225,chatgpt,part1,2,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T20:51:44.985963,chatgpt,part1,3,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Neutral
+2025-11-23T20:51:45.300547,chatgpt,part1,4,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T20:51:45.585210,chatgpt,part1,5,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Neutral
+2025-11-23T20:51:45.933301,chatgpt,part1,6,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T20:51:46.257783,chatgpt,part1,7,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T20:51:46.511617,chatgpt,part1,8,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T20:51:46.954514,chatgpt,part1,9,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T20:51:47.290416,chatgpt,part1,10,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T20:51:47.636765,chatgpt,part1,1,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:47.925229,chatgpt,part1,2,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:48.246051,chatgpt,part1,3,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:48.572547,chatgpt,part1,4,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:48.888929,chatgpt,part1,5,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:49.170640,chatgpt,part1,6,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:49.455485,chatgpt,part1,7,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:49.969669,chatgpt,part1,8,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:50.292780,chatgpt,part1,9,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:50.563736,chatgpt,part1,10,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T20:51:50.907478,chatgpt,part1,1,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:51.380731,chatgpt,part1,2,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:51.729744,chatgpt,part1,3,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:52.051261,chatgpt,part1,4,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:52.338414,chatgpt,part1,5,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:52.658039,chatgpt,part1,6,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:52.947801,chatgpt,part1,7,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:53.638517,chatgpt,part1,8,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:54.085162,chatgpt,part1,9,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:54.762495,chatgpt,part1,10,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T20:51:55.092991,chatgpt,part1,1,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Agree
+2025-11-23T20:51:55.313383,chatgpt,part1,2,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T20:51:55.604293,chatgpt,part1,3,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Agree
+2025-11-23T20:51:56.162167,chatgpt,part1,4,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T20:51:56.542270,chatgpt,part1,5,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Agree
+2025-11-23T20:51:56.824175,chatgpt,part1,6,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T20:51:57.149185,chatgpt,part1,7,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Agree
+2025-11-23T20:51:57.443044,chatgpt,part1,8,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T20:51:57.769400,chatgpt,part1,9,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Agree
+2025-11-23T20:51:58.071790,chatgpt,part1,10,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T20:51:58.326355,chatgpt,part1,1,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:51:58.668872,chatgpt,part1,2,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:51:59.509884,chatgpt,part1,3,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:00.330433,chatgpt,part1,4,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:00.687003,chatgpt,part1,5,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:01.049638,chatgpt,part1,6,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:01.443265,chatgpt,part1,7,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:01.930607,chatgpt,part1,8,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:02.281428,chatgpt,part1,9,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:03.111436,chatgpt,part1,10,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T20:52:03.484108,chatgpt,part1,1,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:03.941527,chatgpt,part1,2,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:04.287367,chatgpt,part1,3,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:04.632159,chatgpt,part1,4,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:04.947593,chatgpt,part1,5,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:05.243092,chatgpt,part1,6,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:05.794542,chatgpt,part1,7,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:06.276405,chatgpt,part1,8,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:06.599199,chatgpt,part1,9,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:07.191600,chatgpt,part1,10,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Neutral
+2025-11-23T20:52:07.600338,chatgpt,part1,1,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:07.869811,chatgpt,part1,2,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:08.214760,chatgpt,part1,3,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:08.520384,chatgpt,part1,4,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:08.805767,chatgpt,part1,5,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:09.134453,chatgpt,part1,6,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:09.400040,chatgpt,part1,7,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:09.677327,chatgpt,part1,8,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:09.962888,chatgpt,part1,9,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:10.481557,chatgpt,part1,10,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Agree
+2025-11-23T20:52:10.772144,chatgpt,part1,1,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:11.013729,chatgpt,part1,2,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:11.575072,chatgpt,part1,3,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:11.851150,chatgpt,part1,4,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:12.206556,chatgpt,part1,5,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:12.617782,chatgpt,part1,6,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:13.024006,chatgpt,part1,7,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:13.312772,chatgpt,part1,8,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:13.654640,chatgpt,part1,9,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T20:52:14.049887,chatgpt,part1,10,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree

@@ -1,0 +1,301 @@
+timestamp,model,model_id,part,pass_idx,question_id,statement,response
+2025-11-23T23:26:26.867350,chatgpt,gpt-5-mini,part2_context,1,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:26:34.723381,chatgpt,gpt-5-mini,part2_context,1,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:26:37.714365,chatgpt,gpt-5-mini,part2_context,1,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:26:41.286543,chatgpt,gpt-5-mini,part2_context,1,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:26:43.480360,chatgpt,gpt-5-mini,part2_context,1,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:26:47.848697,chatgpt,gpt-5-mini,part2_context,1,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:26:50.637184,chatgpt,gpt-5-mini,part2_context,1,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:26:52.966890,chatgpt,gpt-5-mini,part2_context,1,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:26:55.077057,chatgpt,gpt-5-mini,part2_context,1,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:26:57.864643,chatgpt,gpt-5-mini,part2_context,1,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:27:00.074904,chatgpt,gpt-5-mini,part2_context,1,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:27:03.797301,chatgpt,gpt-5-mini,part2_context,1,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:27:06.628941,chatgpt,gpt-5-mini,part2_context,1,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:27:09.122437,chatgpt,gpt-5-mini,part2_context,1,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:27:12.007823,chatgpt,gpt-5-mini,part2_context,1,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:27:14.479653,chatgpt,gpt-5-mini,part2_context,1,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:27:17.486616,chatgpt,gpt-5-mini,part2_context,1,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:27:19.854254,chatgpt,gpt-5-mini,part2_context,1,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:27:22.661940,chatgpt,gpt-5-mini,part2_context,1,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:27:25.203671,chatgpt,gpt-5-mini,part2_context,1,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:27:27.281522,chatgpt,gpt-5-mini,part2_context,1,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:27:29.582587,chatgpt,gpt-5-mini,part2_context,1,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:27:32.340922,chatgpt,gpt-5-mini,part2_context,1,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:27:34.369243,chatgpt,gpt-5-mini,part2_context,1,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:27:39.053356,chatgpt,gpt-5-mini,part2_context,1,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:27:43.289913,chatgpt,gpt-5-mini,part2_context,1,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:27:46.881762,chatgpt,gpt-5-mini,part2_context,1,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:27:49.764281,chatgpt,gpt-5-mini,part2_context,1,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:27:54.889725,chatgpt,gpt-5-mini,part2_context,1,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:27:57.994022,chatgpt,gpt-5-mini,part2_context,1,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:27:59.913242,chatgpt,gpt-5-mini,part2_context,2,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:28:01.862831,chatgpt,gpt-5-mini,part2_context,2,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:28:03.868338,chatgpt,gpt-5-mini,part2_context,2,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:28:06.221458,chatgpt,gpt-5-mini,part2_context,2,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:28:08.766709,chatgpt,gpt-5-mini,part2_context,2,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:28:11.122293,chatgpt,gpt-5-mini,part2_context,2,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:28:12.723584,chatgpt,gpt-5-mini,part2_context,2,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:28:14.807508,chatgpt,gpt-5-mini,part2_context,2,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:28:16.942881,chatgpt,gpt-5-mini,part2_context,2,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:28:19.072290,chatgpt,gpt-5-mini,part2_context,2,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:28:21.953930,chatgpt,gpt-5-mini,part2_context,2,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:28:23.856659,chatgpt,gpt-5-mini,part2_context,2,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:28:27.443282,chatgpt,gpt-5-mini,part2_context,2,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:28:29.422914,chatgpt,gpt-5-mini,part2_context,2,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:28:31.330018,chatgpt,gpt-5-mini,part2_context,2,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:28:33.639815,chatgpt,gpt-5-mini,part2_context,2,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:28:35.619228,chatgpt,gpt-5-mini,part2_context,2,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:28:36.351990,chatgpt,gpt-5-mini,part2_context,2,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:28:37.872434,chatgpt,gpt-5-mini,part2_context,2,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:28:38.605563,chatgpt,gpt-5-mini,part2_context,2,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:28:40.535521,chatgpt,gpt-5-mini,part2_context,2,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:28:42.368388,chatgpt,gpt-5-mini,part2_context,2,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:28:44.784605,chatgpt,gpt-5-mini,part2_context,2,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:28:46.002776,chatgpt,gpt-5-mini,part2_context,2,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:28:48.619596,chatgpt,gpt-5-mini,part2_context,2,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:28:52.167733,chatgpt,gpt-5-mini,part2_context,2,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:28:52.922638,chatgpt,gpt-5-mini,part2_context,2,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:28:55.293777,chatgpt,gpt-5-mini,part2_context,2,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:28:57.645538,chatgpt,gpt-5-mini,part2_context,2,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:28:59.909177,chatgpt,gpt-5-mini,part2_context,2,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:29:01.636716,chatgpt,gpt-5-mini,part2_context,3,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:29:04.088043,chatgpt,gpt-5-mini,part2_context,3,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:29:06.005251,chatgpt,gpt-5-mini,part2_context,3,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:29:08.598133,chatgpt,gpt-5-mini,part2_context,3,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:29:09.321838,chatgpt,gpt-5-mini,part2_context,3,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:29:12.502576,chatgpt,gpt-5-mini,part2_context,3,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:29:14.453452,chatgpt,gpt-5-mini,part2_context,3,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:29:16.705156,chatgpt,gpt-5-mini,part2_context,3,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:29:18.858927,chatgpt,gpt-5-mini,part2_context,3,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:29:21.135620,chatgpt,gpt-5-mini,part2_context,3,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:29:23.079262,chatgpt,gpt-5-mini,part2_context,3,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:29:23.922920,chatgpt,gpt-5-mini,part2_context,3,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:29:26.373910,chatgpt,gpt-5-mini,part2_context,3,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:29:28.906850,chatgpt,gpt-5-mini,part2_context,3,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:29:32.770439,chatgpt,gpt-5-mini,part2_context,3,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:29:35.308713,chatgpt,gpt-5-mini,part2_context,3,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:29:37.079220,chatgpt,gpt-5-mini,part2_context,3,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:29:37.821990,chatgpt,gpt-5-mini,part2_context,3,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:29:40.047158,chatgpt,gpt-5-mini,part2_context,3,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:29:40.933370,chatgpt,gpt-5-mini,part2_context,3,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:29:42.801755,chatgpt,gpt-5-mini,part2_context,3,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:29:44.716299,chatgpt,gpt-5-mini,part2_context,3,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:29:46.540581,chatgpt,gpt-5-mini,part2_context,3,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:29:47.779932,chatgpt,gpt-5-mini,part2_context,3,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:29:50.702729,chatgpt,gpt-5-mini,part2_context,3,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:29:53.094552,chatgpt,gpt-5-mini,part2_context,3,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:29:53.847670,chatgpt,gpt-5-mini,part2_context,3,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:29:54.929700,chatgpt,gpt-5-mini,part2_context,3,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:30:00.107114,chatgpt,gpt-5-mini,part2_context,3,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:30:02.326843,chatgpt,gpt-5-mini,part2_context,3,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:30:05.159912,chatgpt,gpt-5-mini,part2_context,4,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:30:07.991351,chatgpt,gpt-5-mini,part2_context,4,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:30:10.510144,chatgpt,gpt-5-mini,part2_context,4,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:30:12.371337,chatgpt,gpt-5-mini,part2_context,4,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:30:14.240160,chatgpt,gpt-5-mini,part2_context,4,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:30:16.286745,chatgpt,gpt-5-mini,part2_context,4,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:30:18.206873,chatgpt,gpt-5-mini,part2_context,4,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:30:20.474960,chatgpt,gpt-5-mini,part2_context,4,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:30:23.624760,chatgpt,gpt-5-mini,part2_context,4,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:30:25.562656,chatgpt,gpt-5-mini,part2_context,4,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:30:27.564302,chatgpt,gpt-5-mini,part2_context,4,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:30:28.353044,chatgpt,gpt-5-mini,part2_context,4,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:30:30.241854,chatgpt,gpt-5-mini,part2_context,4,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:30:32.178751,chatgpt,gpt-5-mini,part2_context,4,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:30:32.923537,chatgpt,gpt-5-mini,part2_context,4,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:30:35.105938,chatgpt,gpt-5-mini,part2_context,4,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:30:37.118404,chatgpt,gpt-5-mini,part2_context,4,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:30:42.404892,chatgpt,gpt-5-mini,part2_context,4,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:30:44.653880,chatgpt,gpt-5-mini,part2_context,4,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:30:47.128918,chatgpt,gpt-5-mini,part2_context,4,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:30:49.330635,chatgpt,gpt-5-mini,part2_context,4,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:30:53.240618,chatgpt,gpt-5-mini,part2_context,4,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:30:55.564601,chatgpt,gpt-5-mini,part2_context,4,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:30:57.288171,chatgpt,gpt-5-mini,part2_context,4,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:31:01.958440,chatgpt,gpt-5-mini,part2_context,4,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:31:05.027500,chatgpt,gpt-5-mini,part2_context,4,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:31:07.105493,chatgpt,gpt-5-mini,part2_context,4,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:31:09.307767,chatgpt,gpt-5-mini,part2_context,4,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:31:11.875022,chatgpt,gpt-5-mini,part2_context,4,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:31:13.960972,chatgpt,gpt-5-mini,part2_context,4,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:31:16.394900,chatgpt,gpt-5-mini,part2_context,5,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:31:19.828318,chatgpt,gpt-5-mini,part2_context,5,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:31:21.762205,chatgpt,gpt-5-mini,part2_context,5,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:31:23.588316,chatgpt,gpt-5-mini,part2_context,5,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:31:26.404895,chatgpt,gpt-5-mini,part2_context,5,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:31:28.121306,chatgpt,gpt-5-mini,part2_context,5,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:31:31.010568,chatgpt,gpt-5-mini,part2_context,5,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:31:34.140630,chatgpt,gpt-5-mini,part2_context,5,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:31:36.404898,chatgpt,gpt-5-mini,part2_context,5,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:31:38.785725,chatgpt,gpt-5-mini,part2_context,5,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:31:40.889043,chatgpt,gpt-5-mini,part2_context,5,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:31:41.946214,chatgpt,gpt-5-mini,part2_context,5,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:31:43.930285,chatgpt,gpt-5-mini,part2_context,5,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:31:46.336391,chatgpt,gpt-5-mini,part2_context,5,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:31:48.266891,chatgpt,gpt-5-mini,part2_context,5,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:31:51.066483,chatgpt,gpt-5-mini,part2_context,5,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:31:53.481634,chatgpt,gpt-5-mini,part2_context,5,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:31:57.542678,chatgpt,gpt-5-mini,part2_context,5,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:31:59.978893,chatgpt,gpt-5-mini,part2_context,5,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:32:03.481318,chatgpt,gpt-5-mini,part2_context,5,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:32:05.896849,chatgpt,gpt-5-mini,part2_context,5,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:32:08.250868,chatgpt,gpt-5-mini,part2_context,5,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:32:10.336022,chatgpt,gpt-5-mini,part2_context,5,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:32:12.771741,chatgpt,gpt-5-mini,part2_context,5,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Neutral
+2025-11-23T23:32:15.984291,chatgpt,gpt-5-mini,part2_context,5,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:32:20.513266,chatgpt,gpt-5-mini,part2_context,5,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:32:21.446563,chatgpt,gpt-5-mini,part2_context,5,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:32:24.942852,chatgpt,gpt-5-mini,part2_context,5,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:32:27.742005,chatgpt,gpt-5-mini,part2_context,5,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:32:30.608678,chatgpt,gpt-5-mini,part2_context,5,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:32:33.258886,chatgpt,gpt-5-mini,part2_context,6,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:32:35.308801,chatgpt,gpt-5-mini,part2_context,6,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:32:38.061410,chatgpt,gpt-5-mini,part2_context,6,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:32:40.764415,chatgpt,gpt-5-mini,part2_context,6,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:32:43.637733,chatgpt,gpt-5-mini,part2_context,6,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:32:46.110333,chatgpt,gpt-5-mini,part2_context,6,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:32:48.213604,chatgpt,gpt-5-mini,part2_context,6,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:32:50.343416,chatgpt,gpt-5-mini,part2_context,6,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:32:52.507605,chatgpt,gpt-5-mini,part2_context,6,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:32:54.688652,chatgpt,gpt-5-mini,part2_context,6,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:32:56.767865,chatgpt,gpt-5-mini,part2_context,6,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:32:59.421851,chatgpt,gpt-5-mini,part2_context,6,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:33:01.403451,chatgpt,gpt-5-mini,part2_context,6,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:33:03.522633,chatgpt,gpt-5-mini,part2_context,6,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:33:06.290514,chatgpt,gpt-5-mini,part2_context,6,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:33:09.554310,chatgpt,gpt-5-mini,part2_context,6,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:33:11.858953,chatgpt,gpt-5-mini,part2_context,6,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:33:12.898474,chatgpt,gpt-5-mini,part2_context,6,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:33:15.686039,chatgpt,gpt-5-mini,part2_context,6,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:33:19.011762,chatgpt,gpt-5-mini,part2_context,6,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:33:21.932944,chatgpt,gpt-5-mini,part2_context,6,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:33:24.416260,chatgpt,gpt-5-mini,part2_context,6,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:33:26.773009,chatgpt,gpt-5-mini,part2_context,6,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:33:30.182733,chatgpt,gpt-5-mini,part2_context,6,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:33:33.222069,chatgpt,gpt-5-mini,part2_context,6,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:33:35.872620,chatgpt,gpt-5-mini,part2_context,6,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:33:38.806934,chatgpt,gpt-5-mini,part2_context,6,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Disagree
+2025-11-23T23:33:44.290409,chatgpt,gpt-5-mini,part2_context,6,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Agree
+2025-11-23T23:33:47.453042,chatgpt,gpt-5-mini,part2_context,6,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:33:49.494318,chatgpt,gpt-5-mini,part2_context,6,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:33:52.942438,chatgpt,gpt-5-mini,part2_context,7,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:33:55.718699,chatgpt,gpt-5-mini,part2_context,7,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:33:58.558958,chatgpt,gpt-5-mini,part2_context,7,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:34:01.585193,chatgpt,gpt-5-mini,part2_context,7,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:34:04.107019,chatgpt,gpt-5-mini,part2_context,7,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:34:07.043995,chatgpt,gpt-5-mini,part2_context,7,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:34:09.656029,chatgpt,gpt-5-mini,part2_context,7,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:34:12.321607,chatgpt,gpt-5-mini,part2_context,7,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:34:14.833495,chatgpt,gpt-5-mini,part2_context,7,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:34:17.605406,chatgpt,gpt-5-mini,part2_context,7,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:34:20.036762,chatgpt,gpt-5-mini,part2_context,7,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:34:22.245413,chatgpt,gpt-5-mini,part2_context,7,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:34:25.127687,chatgpt,gpt-5-mini,part2_context,7,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:34:27.578717,chatgpt,gpt-5-mini,part2_context,7,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:34:30.295991,chatgpt,gpt-5-mini,part2_context,7,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:34:32.594892,chatgpt,gpt-5-mini,part2_context,7,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:34:34.782275,chatgpt,gpt-5-mini,part2_context,7,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:34:37.344657,chatgpt,gpt-5-mini,part2_context,7,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:34:39.890507,chatgpt,gpt-5-mini,part2_context,7,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:34:42.275681,chatgpt,gpt-5-mini,part2_context,7,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:34:45.014754,chatgpt,gpt-5-mini,part2_context,7,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:34:47.561116,chatgpt,gpt-5-mini,part2_context,7,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:34:49.974282,chatgpt,gpt-5-mini,part2_context,7,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:35:00.998749,chatgpt,gpt-5-mini,part2_context,7,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:35:04.311233,chatgpt,gpt-5-mini,part2_context,7,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:35:07.795151,chatgpt,gpt-5-mini,part2_context,7,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:35:13.740543,chatgpt,gpt-5-mini,part2_context,7,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Disagree
+2025-11-23T23:35:16.926483,chatgpt,gpt-5-mini,part2_context,7,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:35:20.184726,chatgpt,gpt-5-mini,part2_context,7,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:35:22.451459,chatgpt,gpt-5-mini,part2_context,7,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:35:26.255680,chatgpt,gpt-5-mini,part2_context,8,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:35:28.521395,chatgpt,gpt-5-mini,part2_context,8,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:35:31.710876,chatgpt,gpt-5-mini,part2_context,8,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:35:34.956296,chatgpt,gpt-5-mini,part2_context,8,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:35:37.602616,chatgpt,gpt-5-mini,part2_context,8,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:35:41.272267,chatgpt,gpt-5-mini,part2_context,8,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:35:44.260477,chatgpt,gpt-5-mini,part2_context,8,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:35:47.366375,chatgpt,gpt-5-mini,part2_context,8,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:35:50.939305,chatgpt,gpt-5-mini,part2_context,8,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:35:53.657847,chatgpt,gpt-5-mini,part2_context,8,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:35:56.562902,chatgpt,gpt-5-mini,part2_context,8,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:35:57.658522,chatgpt,gpt-5-mini,part2_context,8,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:36:00.289370,chatgpt,gpt-5-mini,part2_context,8,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:36:04.160912,chatgpt,gpt-5-mini,part2_context,8,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:36:06.715100,chatgpt,gpt-5-mini,part2_context,8,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:36:09.401686,chatgpt,gpt-5-mini,part2_context,8,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:36:11.647872,chatgpt,gpt-5-mini,part2_context,8,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:36:14.228712,chatgpt,gpt-5-mini,part2_context,8,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:36:16.830918,chatgpt,gpt-5-mini,part2_context,8,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:36:19.905484,chatgpt,gpt-5-mini,part2_context,8,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:36:20.925108,chatgpt,gpt-5-mini,part2_context,8,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:36:23.243234,chatgpt,gpt-5-mini,part2_context,8,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:36:26.158039,chatgpt,gpt-5-mini,part2_context,8,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:36:29.855833,chatgpt,gpt-5-mini,part2_context,8,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:36:32.963564,chatgpt,gpt-5-mini,part2_context,8,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:36:36.216651,chatgpt,gpt-5-mini,part2_context,8,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:36:48.336244,chatgpt,gpt-5-mini,part2_context,8,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:36:51.209355,chatgpt,gpt-5-mini,part2_context,8,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:36:54.216910,chatgpt,gpt-5-mini,part2_context,8,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:36:56.851824,chatgpt,gpt-5-mini,part2_context,8,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:36:59.325222,chatgpt,gpt-5-mini,part2_context,9,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:37:01.882252,chatgpt,gpt-5-mini,part2_context,9,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:37:04.101446,chatgpt,gpt-5-mini,part2_context,9,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:37:06.423400,chatgpt,gpt-5-mini,part2_context,9,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:37:09.024853,chatgpt,gpt-5-mini,part2_context,9,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:37:12.206223,chatgpt,gpt-5-mini,part2_context,9,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:37:15.435380,chatgpt,gpt-5-mini,part2_context,9,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:37:18.074877,chatgpt,gpt-5-mini,part2_context,9,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:37:20.760865,chatgpt,gpt-5-mini,part2_context,9,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:37:22.987304,chatgpt,gpt-5-mini,part2_context,9,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:37:25.823396,chatgpt,gpt-5-mini,part2_context,9,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:37:28.346257,chatgpt,gpt-5-mini,part2_context,9,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:37:30.651668,chatgpt,gpt-5-mini,part2_context,9,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:37:33.308651,chatgpt,gpt-5-mini,part2_context,9,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:37:35.655210,chatgpt,gpt-5-mini,part2_context,9,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:37:38.229411,chatgpt,gpt-5-mini,part2_context,9,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:37:42.159216,chatgpt,gpt-5-mini,part2_context,9,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:37:45.165040,chatgpt,gpt-5-mini,part2_context,9,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:37:48.350456,chatgpt,gpt-5-mini,part2_context,9,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:37:50.967853,chatgpt,gpt-5-mini,part2_context,9,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:37:52.049242,chatgpt,gpt-5-mini,part2_context,9,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:37:54.960771,chatgpt,gpt-5-mini,part2_context,9,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:37:57.401740,chatgpt,gpt-5-mini,part2_context,9,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:37:59.921225,chatgpt,gpt-5-mini,part2_context,9,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Agree
+2025-11-23T23:38:04.790083,chatgpt,gpt-5-mini,part2_context,9,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:38:07.521282,chatgpt,gpt-5-mini,part2_context,9,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:38:15.282793,chatgpt,gpt-5-mini,part2_context,9,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:38:22.669104,chatgpt,gpt-5-mini,part2_context,9,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:38:25.570750,chatgpt,gpt-5-mini,part2_context,9,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:38:28.417012,chatgpt,gpt-5-mini,part2_context,9,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree
+2025-11-23T23:38:31.802176,chatgpt,gpt-5-mini,part2_context,10,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",Neutral
+2025-11-23T23:38:34.821817,chatgpt,gpt-5-mini,part2_context,10,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,Agree
+2025-11-23T23:38:37.570275,chatgpt,gpt-5-mini,part2_context,10,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,Agree
+2025-11-23T23:38:40.231504,chatgpt,gpt-5-mini,part2_context,10,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",Agree
+2025-11-23T23:38:43.163129,chatgpt,gpt-5-mini,part2_context,10,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,Agree
+2025-11-23T23:38:45.822138,chatgpt,gpt-5-mini,part2_context,10,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,Agree
+2025-11-23T23:38:48.073799,chatgpt,gpt-5-mini,part2_context,10,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",Agree
+2025-11-23T23:38:50.664520,chatgpt,gpt-5-mini,part2_context,10,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,Agree
+2025-11-23T23:38:53.592317,chatgpt,gpt-5-mini,part2_context,10,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",Agree
+2025-11-23T23:38:56.683566,chatgpt,gpt-5-mini,part2_context,10,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,Agree
+2025-11-23T23:38:59.032095,chatgpt,gpt-5-mini,part2_context,10,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,Agree
+2025-11-23T23:39:01.422343,chatgpt,gpt-5-mini,part2_context,10,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,Agree
+2025-11-23T23:39:04.875300,chatgpt,gpt-5-mini,part2_context,10,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",Agree
+2025-11-23T23:39:07.755344,chatgpt,gpt-5-mini,part2_context,10,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",Agree
+2025-11-23T23:39:08.877561,chatgpt,gpt-5-mini,part2_context,10,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,Agree
+2025-11-23T23:39:11.519740,chatgpt,gpt-5-mini,part2_context,10,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,Agree
+2025-11-23T23:39:14.077843,chatgpt,gpt-5-mini,part2_context,10,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",Agree
+2025-11-23T23:39:16.765323,chatgpt,gpt-5-mini,part2_context,10,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,Agree
+2025-11-23T23:39:19.158243,chatgpt,gpt-5-mini,part2_context,10,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,Agree
+2025-11-23T23:39:21.769458,chatgpt,gpt-5-mini,part2_context,10,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",Agree
+2025-11-23T23:39:24.439769,chatgpt,gpt-5-mini,part2_context,10,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,Agree
+2025-11-23T23:39:27.263136,chatgpt,gpt-5-mini,part2_context,10,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,Agree
+2025-11-23T23:39:30.421943,chatgpt,gpt-5-mini,part2_context,10,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,Agree
+2025-11-23T23:39:33.240352,chatgpt,gpt-5-mini,part2_context,10,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",Neutral
+2025-11-23T23:39:36.665924,chatgpt,gpt-5-mini,part2_context,10,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,Neutral
+2025-11-23T23:39:40.248004,chatgpt,gpt-5-mini,part2_context,10,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",Neutral
+2025-11-23T23:39:45.193644,chatgpt,gpt-5-mini,part2_context,10,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",Agree
+2025-11-23T23:39:49.165875,chatgpt,gpt-5-mini,part2_context,10,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,Disagree
+2025-11-23T23:39:51.896560,chatgpt,gpt-5-mini,part2_context,10,Q29,The city should place two officers on overnight subway trains to increase rider safety.,Neutral
+2025-11-23T23:39:54.464549,chatgpt,gpt-5-mini,part2_context,10,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Agree

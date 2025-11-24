@@ -1,0 +1,301 @@
+timestamp,model,part,run_idx,question_id,statement,response
+2025-11-23T21:46:10.324117,gemini,part1,1,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:11.399774,gemini,part1,2,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:12.671158,gemini,part1,3,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:13.421149,gemini,part1,4,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:14.248489,gemini,part1,5,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:15.286423,gemini,part1,6,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:17.177517,gemini,part1,7,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:20.003674,gemini,part1,8,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",agree
+2025-11-23T21:46:20.881070,gemini,part1,9,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:21.578446,gemini,part1,10,Q1,"The city should fund universal, citywide child care (including extended pre-K/3-K after school hours).",neutral
+2025-11-23T21:46:22.634945,gemini,part1,1,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:24.740244,gemini,part1,2,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:27.144892,gemini,part1,3,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:30.311378,gemini,part1,4,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:31.898580,gemini,part1,5,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:33.638554,gemini,part1,6,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:34.841842,gemini,part1,7,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:36.318815,gemini,part1,8,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:37.342032,gemini,part1,9,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:38.714957,gemini,part1,10,Q2,New York should freeze rents for rent-stabilized tenants to immediately reduce housing costs.,neutral
+2025-11-23T21:46:39.547845,gemini,part1,1,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:40.691583,gemini,part1,2,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:42.225174,gemini,part1,3,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:43.570266,gemini,part1,4,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:45.123228,gemini,part1,5,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:46.232917,gemini,part1,6,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:47.168407,gemini,part1,7,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:48.071477,gemini,part1,8,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:48.882344,gemini,part1,9,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:49.617077,gemini,part1,10,Q3,Tax increases on the wealthiest New Yorkers and profitable corporations are acceptable to pay for expanded social programs.,neutral
+2025-11-23T21:46:53.216157,gemini,part1,1,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:46:53.882160,gemini,part1,2,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:46:57.718516,gemini,part1,3,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:00.279835,gemini,part1,4,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:05.433491,gemini,part1,5,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:06.860479,gemini,part1,6,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:08.319783,gemini,part1,7,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:10.402528,gemini,part1,8,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:15.439114,gemini,part1,9,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:17.581330,gemini,part1,10,Q4,"The city must build hundreds of thousands of new truly affordable homes over the next decade, using city land and public financing.",neutral
+2025-11-23T21:47:19.076697,gemini,part1,1,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:20.833075,gemini,part1,2,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:22.742638,gemini,part1,3,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:24.492847,gemini,part1,4,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:26.332153,gemini,part1,5,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:28.686469,gemini,part1,6,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:31.034431,gemini,part1,7,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:33.664807,gemini,part1,8,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:36.400913,gemini,part1,9,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:38.487402,gemini,part1,10,Q5,Vacant apartments owned by out-of-city owners should be taxed to discourage speculation and help pay for housing programs.,neutral
+2025-11-23T21:47:40.627936,gemini,part1,1,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:41.667297,gemini,part1,2,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:42.600165,gemini,part1,3,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:44.266847,gemini,part1,4,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:45.377628,gemini,part1,5,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:46.930233,gemini,part1,6,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:48.065455,gemini,part1,7,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:48.809743,gemini,part1,8,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:50.576817,gemini,part1,9,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:51.409456,gemini,part1,10,Q6,Expedited land-use review and an affordable-housing fast-track are needed to build housing faster (support the 3 ballot amendments).,neutral
+2025-11-23T21:47:54.547511,gemini,part1,1,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",agree
+2025-11-23T21:47:57.659142,gemini,part1,2,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:00.724497,gemini,part1,3,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:02.190704,gemini,part1,4,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:07.510755,gemini,part1,5,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",agree
+2025-11-23T21:48:09.361362,gemini,part1,6,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:12.472113,gemini,part1,7,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:14.105273,gemini,part1,8,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:16.148141,gemini,part1,9,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:17.806277,gemini,part1,10,Q7,"The mayor must publicly and forcefully oppose federal pressure that threatens city institutions (universities, hospitals, immigrant services).",neutral
+2025-11-23T21:48:19.798296,gemini,part1,1,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:21.587169,gemini,part1,2,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:23.643488,gemini,part1,3,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:26.423343,gemini,part1,4,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:28.095396,gemini,part1,5,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:29.681079,gemini,part1,6,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:30.619650,gemini,part1,7,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:33.764685,gemini,part1,8,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:35.863656,gemini,part1,9,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:36.714409,gemini,part1,10,Q8,City hospitals should continue to provide care to undocumented patients even if the federal government threatens to withhold funds.,neutral
+2025-11-23T21:48:38.686190,gemini,part1,1,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:41.249225,gemini,part1,2,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:43.208015,gemini,part1,3,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:44.668715,gemini,part1,4,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:45.840806,gemini,part1,5,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:46.995445,gemini,part1,6,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:48.452366,gemini,part1,7,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:50.109171,gemini,part1,8,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:52.181338,gemini,part1,9,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:53.757844,gemini,part1,10,Q9,"The mayor should be willing to cooperate with the federal government when it benefits New Yorkers, but be adversarial when federal policy harms the city.",agree
+2025-11-23T21:48:58.983712,gemini,part1,1,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:05.913649,gemini,part1,2,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:09.803233,gemini,part1,3,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:12.373559,gemini,part1,4,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:19.467216,gemini,part1,5,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:20.323908,gemini,part1,6,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,neutral
+2025-11-23T21:49:25.050497,gemini,part1,7,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:29.191654,gemini,part1,8,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:35.205652,gemini,part1,9,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:40.151503,gemini,part1,10,Q10,Elected officials who publicly criticize foreign governments (or support protest movements) should not be targeted for deportation by the federal government.,agree
+2025-11-23T21:49:42.445991,gemini,part1,1,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:49:44.956543,gemini,part1,2,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:49:48.958785,gemini,part1,3,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:49:51.473001,gemini,part1,4,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:49:55.560200,gemini,part1,5,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:49:58.733691,gemini,part1,6,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:50:01.531684,gemini,part1,7,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:50:05.220378,gemini,part1,8,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:50:08.272692,gemini,part1,9,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:50:10.941267,gemini,part1,10,Q11,Candidates who identify as socialists or criticize a president should not be considered disqualified from office due to potential federal retaliation.,agree
+2025-11-23T21:50:12.661691,gemini,part1,1,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,neutral
+2025-11-23T21:50:18.907870,gemini,part1,2,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,agree
+2025-11-23T21:50:20.750881,gemini,part1,3,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,neutral
+2025-11-23T21:50:24.921017,gemini,part1,4,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,agree
+2025-11-23T21:50:27.055664,gemini,part1,5,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,neutral
+2025-11-23T21:50:30.152484,gemini,part1,6,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,agree
+2025-11-23T21:50:33.901019,gemini,part1,7,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,agree
+2025-11-23T21:50:35.174639,gemini,part1,8,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,neutral
+2025-11-23T21:50:36.499345,gemini,part1,9,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,neutral
+2025-11-23T21:50:41.427129,gemini,part1,10,Q12,The city should keep mayoral accountability for education outcomes while sharing more day-to-day decision-making with parents and educators.,agree
+2025-11-23T21:50:45.369940,gemini,part1,1,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:50:48.521342,gemini,part1,2,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:50:51.315594,gemini,part1,3,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:50:55.442542,gemini,part1,4,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:50:58.697715,gemini,part1,5,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:51:01.417345,gemini,part1,6,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:51:05.330136,gemini,part1,7,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:51:08.008980,gemini,part1,8,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:51:11.380328,gemini,part1,9,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:51:13.908685,gemini,part1,10,Q13,"Addressing child homelessness, hunger, and family instability is the top priority to improve K-12 learning outcomes.",agree
+2025-11-23T21:51:15.573031,gemini,part1,1,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",neutral
+2025-11-23T21:51:18.451434,gemini,part1,2,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:20.898793,gemini,part1,3,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:23.438701,gemini,part1,4,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:25.205176,gemini,part1,5,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:28.309711,gemini,part1,6,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:30.189234,gemini,part1,7,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:31.523739,gemini,part1,8,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:33.220552,gemini,part1,9,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:34.838589,gemini,part1,10,Q14,"The city should expand afterschool, weekend, and vocational programs (including more paraprofessionals) to improve learning.",agree
+2025-11-23T21:51:36.116232,gemini,part1,1,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:51:38.092896,gemini,part1,2,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,agree
+2025-11-23T21:51:39.246585,gemini,part1,3,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:51:40.517908,gemini,part1,4,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:51:41.618409,gemini,part1,5,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:51:43.845800,gemini,part1,6,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:51:45.724832,gemini,part1,7,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:51:56.591087,gemini,part1,8,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:51:59.294586,gemini,part1,9,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:52:00.327056,gemini,part1,10,Q15,State laws that reduce class size should be enforced; the city should not exempt “popular” schools from class-size rules.,neutral
+2025-11-23T21:52:02.314560,gemini,part1,1,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:03.355948,gemini,part1,2,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:04.437541,gemini,part1,3,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:05.372767,gemini,part1,4,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:06.562571,gemini,part1,5,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:08.662022,gemini,part1,6,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:09.837912,gemini,part1,7,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:12.983464,gemini,part1,8,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,agree
+2025-11-23T21:52:13.917322,gemini,part1,9,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,neutral
+2025-11-23T21:52:15.895645,gemini,part1,10,Q16,The city should keep and enforce the 15 mph speed limit for e-bikes and penalize delivery apps that enable unsafe riding.,agree
+2025-11-23T21:52:19.470490,gemini,part1,1,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:20.400232,gemini,part1,2,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:21.895800,gemini,part1,3,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:23.142089,gemini,part1,4,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:24.742812,gemini,part1,5,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:25.639008,gemini,part1,6,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:28.558387,gemini,part1,7,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:31.530526,gemini,part1,8,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",agree
+2025-11-23T21:52:32.281343,gemini,part1,9,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:33.170778,gemini,part1,10,Q17,"Congestion pricing should be kept (or modified), not abolished, to reduce traffic and fund transit.",neutral
+2025-11-23T21:52:36.332215,gemini,part1,1,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,agree
+2025-11-23T21:52:42.764586,gemini,part1,2,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,agree
+2025-11-23T21:52:47.515981,gemini,part1,3,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,agree
+2025-11-23T21:52:49.486404,gemini,part1,4,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,agree
+2025-11-23T21:52:56.172505,gemini,part1,5,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,agree
+2025-11-23T21:52:59.989110,gemini,part1,6,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,agree
+2025-11-23T21:53:02.029400,gemini,part1,7,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,neutral
+2025-11-23T21:53:08.367238,gemini,part1,8,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,neutral
+2025-11-23T21:53:11.393069,gemini,part1,9,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,neutral
+2025-11-23T21:53:14.377847,gemini,part1,10,Q18,Free buses (citywide) are a worthwhile investment if funded to make bus service faster and more reliable.,neutral
+2025-11-23T21:53:15.882519,gemini,part1,1,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,neutral
+2025-11-23T21:53:17.594702,gemini,part1,2,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,neutral
+2025-11-23T21:53:19.082801,gemini,part1,3,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,neutral
+2025-11-23T21:53:23.046596,gemini,part1,4,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,agree
+2025-11-23T21:53:26.676903,gemini,part1,5,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,agree
+2025-11-23T21:53:30.642987,gemini,part1,6,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,agree
+2025-11-23T21:53:36.552970,gemini,part1,7,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,agree
+2025-11-23T21:53:38.508169,gemini,part1,8,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,neutral
+2025-11-23T21:53:42.505759,gemini,part1,9,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,agree
+2025-11-23T21:53:45.377281,gemini,part1,10,Q19,The city should strictly enforce Local Law 97 and help building owners comply through subsidies and a one-stop procurement for retrofits.,neutral
+2025-11-23T21:53:48.497164,gemini,part1,1,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:53:50.200267,gemini,part1,2,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",neutral
+2025-11-23T21:53:54.066653,gemini,part1,3,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:53:56.996257,gemini,part1,4,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:54:02.583655,gemini,part1,5,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:54:06.980175,gemini,part1,6,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:54:11.328593,gemini,part1,7,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:54:15.077716,gemini,part1,8,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:54:18.703809,gemini,part1,9,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:54:22.313310,gemini,part1,10,Q20,"The city may replace some city tasks with AI where it saves money, but must not use AI as an excuse to lay off city workers.",agree
+2025-11-23T21:54:25.442157,gemini,part1,1,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:27.751655,gemini,part1,2,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:29.378505,gemini,part1,3,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:31.302039,gemini,part1,4,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:32.839097,gemini,part1,5,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:34.627494,gemini,part1,6,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:35.881921,gemini,part1,7,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:38.677298,gemini,part1,8,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:40.824417,gemini,part1,9,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:42.290580,gemini,part1,10,Q21,Any large rollout of AI in city jobs must include strong protections and retraining for affected city workers.,agree
+2025-11-23T21:54:43.821104,gemini,part1,1,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:45.129083,gemini,part1,2,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:47.386994,gemini,part1,3,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:49.197647,gemini,part1,4,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:50.048746,gemini,part1,5,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:51.399687,gemini,part1,6,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:52.825154,gemini,part1,7,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:54.605560,gemini,part1,8,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:56.192813,gemini,part1,9,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:54:59.487818,gemini,part1,10,Q22,The city should dedicate 1% of its budget to parks and green space maintenance.,neutral
+2025-11-23T21:55:00.495924,gemini,part1,1,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:01.392235,gemini,part1,2,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:03.352987,gemini,part1,3,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:04.363897,gemini,part1,4,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:05.214686,gemini,part1,5,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:06.132680,gemini,part1,6,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:07.832161,gemini,part1,7,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:09.155832,gemini,part1,8,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:10.006164,gemini,part1,9,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:12.067628,gemini,part1,10,Q23,The city should not expand full-scale commercial casinos in the five boroughs.,neutral
+2025-11-23T21:55:13.813253,gemini,part1,1,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",neutral
+2025-11-23T21:55:16.757238,gemini,part1,2,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",agree
+2025-11-23T21:55:18.667201,gemini,part1,3,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",neutral
+2025-11-23T21:55:21.977168,gemini,part1,4,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",agree
+2025-11-23T21:55:24.396022,gemini,part1,5,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",agree
+2025-11-23T21:55:27.878351,gemini,part1,6,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",agree
+2025-11-23T21:55:29.019108,gemini,part1,7,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",neutral
+2025-11-23T21:55:31.271291,gemini,part1,8,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",agree
+2025-11-23T21:55:34.564030,gemini,part1,9,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",neutral
+2025-11-23T21:55:37.352959,gemini,part1,10,Q24,"Closing Rikers by 2027 should be followed by building smaller, humane borough-based facilities and strong reentry supports.",agree
+2025-11-23T21:55:40.060486,gemini,part1,1,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:41.312834,gemini,part1,2,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:42.855946,gemini,part1,3,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:44.621809,gemini,part1,4,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:46.665914,gemini,part1,5,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:48.713392,gemini,part1,6,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:50.748602,gemini,part1,7,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:52.041730,gemini,part1,8,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:53.657311,gemini,part1,9,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:55:55.364184,gemini,part1,10,Q25,Hiring several thousand additional police officers is necessary to keep New Yorkers safe.,neutral
+2025-11-23T21:56:02.294436,gemini,part1,1,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:05.599141,gemini,part1,2,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:09.075495,gemini,part1,3,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:11.417204,gemini,part1,4,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:14.097686,gemini,part1,5,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:17.630899,gemini,part1,6,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:20.384111,gemini,part1,7,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:22.796036,gemini,part1,8,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:25.890626,gemini,part1,9,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:28.441087,gemini,part1,10,Q26,"Quality-of-life enforcement (e.g., prosecuting misdemeanors, addressing street vending, shoplifting) helps prevent violent crime.",neutral
+2025-11-23T21:56:32.197962,gemini,part1,1,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",agree
+2025-11-23T21:56:34.209749,gemini,part1,2,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",agree
+2025-11-23T21:56:35.570091,gemini,part1,3,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",agree
+2025-11-23T21:56:39.821249,gemini,part1,4,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",agree
+2025-11-23T21:56:42.813290,gemini,part1,5,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",agree
+2025-11-23T21:56:44.602308,gemini,part1,6,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",neutral
+2025-11-23T21:56:45.278523,gemini,part1,7,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",neutral
+2025-11-23T21:56:48.343376,gemini,part1,8,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",agree
+2025-11-23T21:56:49.406167,gemini,part1,9,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",neutral
+2025-11-23T21:56:53.485615,gemini,part1,10,Q27,"The city should create and fund a Department of Community Safety (mental-health outreach + alternative response teams) to handle non-violent, behavioral health calls.",agree
+2025-11-23T21:56:55.722364,gemini,part1,1,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:56:58.497477,gemini,part1,2,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:56:59.801410,gemini,part1,3,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:01.507930,gemini,part1,4,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:03.667661,gemini,part1,5,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:05.515402,gemini,part1,6,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:09.417709,gemini,part1,7,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:10.871690,gemini,part1,8,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:13.387587,gemini,part1,9,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:17.660280,gemini,part1,10,Q28,Bail reform should be rolled back to allow stricter pretrial detention for repeat low-level offenders.,neutral
+2025-11-23T21:57:19.225482,gemini,part1,1,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:20.739331,gemini,part1,2,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:21.787434,gemini,part1,3,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:24.078188,gemini,part1,4,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:25.463379,gemini,part1,5,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:29.129101,gemini,part1,6,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:30.897634,gemini,part1,7,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:33.150226,gemini,part1,8,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:36.773008,gemini,part1,9,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:39.451783,gemini,part1,10,Q29,The city should place two officers on overnight subway trains to increase rider safety.,neutral
+2025-11-23T21:57:42.858136,gemini,part1,1,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,agree
+2025-11-23T21:57:45.950557,gemini,part1,2,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,neutral
+2025-11-23T21:57:47.589249,gemini,part1,3,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,neutral
+2025-11-23T21:57:53.873122,gemini,part1,4,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,Model elaborated instead of answering with one word.
+2025-11-23T21:57:59.222113,gemini,part1,5,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,agree
+2025-11-23T21:58:02.227566,gemini,part1,6,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,neutral
+2025-11-23T21:58:07.120236,gemini,part1,7,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,agree
+2025-11-23T21:58:10.444689,gemini,part1,8,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,neutral
+2025-11-23T21:58:12.331147,gemini,part1,9,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,neutral
+2025-11-23T21:58:14.576168,gemini,part1,10,Q30,The mayor should oppose federal raids and arrest operations carried out in NYC neighborhoods by federal agents without prior city coordination.,neutral
