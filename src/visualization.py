@@ -8,7 +8,10 @@ COLOR_MAP = {
     "disagree": -1
 }
 
-def handle_heatmap(csv_path, output_path, title):
+def truncate(text, max_len=40):
+    return text if len(text) <= max_len else text[:max_len] + "…"
+
+def handle_heatmap(csv_path, output_path):
     df = pd.read_csv(csv_path)
 
     df["response"] = df["response"].astype(str).str.strip().str.lower()
@@ -34,13 +37,11 @@ def handle_heatmap(csv_path, output_path, title):
     plt.figure(figsize=(25, 8))
     plt.imshow(pivot.values, aspect="auto", cmap=cmap, norm=norm)
     
-    plt.title(title, fontsize=20)
-
     plt.yticks(np.arange(len(pivot.index)), pivot.index, fontsize=12)
     plt.xticks(
         np.arange(len(pivot.columns)),
-        pivot.columns,
-        fontsize=9,
+        [truncate(s, 40) for s in pivot.columns],
+        fontsize=6,
         rotation=70,
         ha="right"
     )
@@ -48,6 +49,10 @@ def handle_heatmap(csv_path, output_path, title):
     # Add colorbar along axis
     cbar = plt.colorbar()
     cbar.set_label("Average Score  (-1=Disagree, 0=Neutral, 1=Agree)", fontsize=12)
+
+    plt.gcf().subplots_adjust(right=0.5)
+
+    plt.gcf().subplots_adjust(bottom=0.35)
 
     plt.tight_layout()
     plt.savefig(output_path, dpi=300)
@@ -60,13 +65,11 @@ def main():
     handle_heatmap(
         "data/final/part1_results.csv",
         "data/final/heatmap_part1.png",
-        "Method 1: Model Responses"
     )
 
     handle_heatmap(
         "data/final/part2_results.csv",
         "data/final/heatmap_part2.png",
-        "Method 2: Model Responses"
     )
 
 if __name__ == "__main__":
