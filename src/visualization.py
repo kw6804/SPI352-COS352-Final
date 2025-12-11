@@ -1,3 +1,5 @@
+# creates heatmaps from results to display model agreement/disagreement
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -19,15 +21,18 @@ def handle_heatmap(csv_path, output_path):
 
     # Average score for conflicted responses
     grouped = (
-        df.groupby(["model", "statement"])["score"]
+        df.groupby(["model", "question_id"])["score"]
         .mean()
         .reset_index()
     )
 
-    pivot = grouped.pivot(index="model", columns="statement", values="score")
+    pivot = grouped.pivot(index="model", columns="question_id", values="score")
     
     pivot = pivot.sort_index()
-    pivot = pivot.reindex(sorted(pivot.columns), axis=1)
+    pivot = pivot.reindex(
+    sorted(pivot.columns, key=lambda q: int(q.lower().replace("q", ""))),
+    axis=1
+)
 
     # Create and plot colormap
     cmap = plt.cm.RdYlGn
