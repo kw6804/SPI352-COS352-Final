@@ -59,9 +59,16 @@ colors = ['#4C72B0', '#DD8452', '#55A868']
 x = np.arange(len(models))
 width = 0.25
 
+# Plot bars and add percentage labels
 for i, cand in enumerate(candidates_list):
     cand_values = df_align[df_align["candidate"] == cand]["alignment"]
-    plt.bar(x + (i - 1) * width, cand_values, width, label=cand, color=colors[i])
+    bars = plt.bar(x + (i - 1) * width, cand_values, width, label=cand, color=colors[i])
+    
+    # Add percentage labels on top of each bar
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(bar.get_x() + bar.get_width()/2., height,
+                f'{height:.1f}%', ha='center', va='bottom', fontsize=10)
 
 plt.xticks(x, models, rotation=20, fontsize=12, color='black')
 plt.yticks(fontsize=12, color='black')
@@ -89,6 +96,8 @@ plt.tight_layout()
 
 plt.savefig(output_path, dpi=300)
 plt.close()
+
+print(f"Saved overall alignment graph: {output_path}")
 
 # Now start process of calculating alignment by category
 OUTPUT_DIR = "data/final"
@@ -131,14 +140,20 @@ for cat in categories:
 
     df_align = pd.DataFrame(results)
 
-    # plot graphs
+    # Plot graphs
     plt.figure(figsize=(12, 6))
     x = np.arange(len(models))
     width = 0.25
 
     for i, cand in enumerate(candidates_list):
         cand_values = df_align[df_align["candidate"] == cand]["alignment"]
-        plt.bar(x + (i - 1) * width, cand_values, width, label=cand, color=colors[i])
+        bars = plt.bar(x + (i - 1) * width, cand_values, width, label=cand, color=colors[i])
+        
+        # Percentage labels on top of each bar
+        for bar in bars:
+            height = bar.get_height()
+            plt.text(bar.get_x() + bar.get_width()/2., height,
+                    f'{height:.1f}%', ha='center', va='bottom', fontsize=10)
 
     plt.xticks(x, models, rotation=20, fontsize=12)
     plt.ylabel("Alignment (%)", fontsize=14)
